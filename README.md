@@ -62,5 +62,5 @@ Porque te permite entender cómo se construyen **sistemas interactivos, eficient
 
 ¡Bienvenid@s al desafío! ✨
 
-**La profe**
+**Monica Nano**
 
