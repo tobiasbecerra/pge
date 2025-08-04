@@ -1,6 +1,6 @@
 # 🧾 Tarea 1 – Recuperando Saberes – Programación Orientada a Objetos (POO) en C++
 
-Este repositorio contiene la resolución de la **Tarea 1 – Recuperando Saberes** de la materia **Programación Genérica y Eventos** de la **Universidad Blas Pascal**.
+Este repositorio contiene la resolución de la **Tarea 1** de la materia **Programación Genérica y Eventos** de la **Universidad Blas Pascal, Córdoba, Argentina**.
 
 El propósito de esta tarea es demostrar la comprensión y aplicación de los principios fundamentales de la **Programación Orientada a Objetos (POO)** en C++, incluyendo:
 
@@ -22,8 +22,7 @@ Desarrollar soluciones que reflejen el uso consciente y adecuado de la POO para 
 Cada carpeta contiene la implementación de una de las situaciones propuestas en el enunciado. Dentro de cada una encontrarás un `README.md` específico con los objetivos, diseño y estructura del ejercicio correspondiente.
 
 ```
-/tarea-1-recuperando-saberes
-├── README.md                    # Este archivo (principal)
+/tarea-1
 ├── situacion_1_estudiantes/    # Sistema de gestión académica de estudiantes
 ├── situacion_2_aerolinea/      # Simulación de reservas en una aerolínea
 ├── situacion_3_juego2d/        # Desarrollo de un juego en 2D
@@ -65,7 +64,7 @@ El asistente fue diseñado para acompañar cada etapa del proceso: diseño, codi
 
 ## 🗓️ Créditos
 
-Actividad realizada en el marco de la materia *Programación Genérica y Eventos* – Agosto 2025.\
+Actividad realizada en el marco de la materia *Programación Genérica y Eventos* – Agosto/Diciembre 2025.\
 Universidad Blas Pascal.\
-Autor: *[Nombre del estudiante]*
+Autor: *Tobias Becerra*
 
