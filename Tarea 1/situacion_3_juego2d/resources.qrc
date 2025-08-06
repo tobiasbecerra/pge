@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/">
+    <file>pocion.png</file> <!-- O images/pocion.png si está en subcarpeta -->
+  </qresource>
+</RCC>
