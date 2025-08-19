@@ -1,0 +1,1 @@
+En el titulo se puede ver el contador de caracteres y ahora vamos a ver el autoguardado que tambien se anuncia en el titulo de la ventana

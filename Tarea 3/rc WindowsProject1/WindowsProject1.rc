@@ -1,0 +1,15 @@
+IDR_MAINMENU MENU
+BEGIN
+    POPUP "&Archivo"
+    BEGIN
+        MENUITEM "Salir",        IDM_EXIT
+    END
+    POPUP "&Ver"
+    BEGIN
+        MENUITEM "Alternar modo oscuro", IDM_TOGGLE_DARKMODE
+    END
+    POPUP "&Ayuda"
+    BEGIN
+        MENUITEM "Acerca de...", IDM_ABOUT
+    END
+END
