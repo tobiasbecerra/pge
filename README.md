@@ -24,43 +24,9 @@ Esta asignatura está orientada al desarrollo de software **reutilizable, intera
 
 ---
 
-## 📌 Organización del cursado
-
-- Clases teórico-prácticas semanales en laboratorio
-- Resolución de ejercicios prácticos y análisis de casos reales
-- Uso de herramientas profesionales: Visual Studio, Qt Creator, GitHub, bibliotecas avanzadas, etc.
-
----
-
-## 📅 Evaluación y entregables
-
-- 🧠 **2 parciales teórico-prácticos** (semanas 6 y 12)
-- ⚙️ **Ejercicios prácticos semanales** (plantillas, eventos, GUI...)
-- 🧪 **Actividad integradora final** (semana 15): desarrollo de un proyecto interactivo
-- 💬 Evaluación integral: teoría, práctica, trabajo en equipo y documentación
-
----
-
-## ✅ Requisitos para la promoción
-
-- 📚 Asistencia mínima del 80%
-- 📝 Aprobación de ambos parciales con nota ≥ 8
-- 💼 Entrega de todos los trabajos prácticos
-- 🗣️ Participación en coloquio integrador (si aplica a tu modalidad)
-
----
-
 ## 🧠 ¿Por qué es clave esta materia?
 
 Porque te permite entender cómo se construyen **sistemas interactivos, eficientes y sostenibles**, utilizando herramientas reales que se aplican en la industria del software.
 
----
 
-## 📣 ¡Estás invitado a programar como un profesional!
-
-💬 Vamos a usar herramientas modernas, resolver problemas reales y construir software inteligente, escalable y adaptable.
-
-¡Bienvenid@s al desafío! ✨
-
-**Monica Nano**
 
