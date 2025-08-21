@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lab3-PC\\Desktop\\5-ascensor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7587035-6E5C-48EA-9395-6DEA4D718A62}|5-ascensor.vcxproj|C:\\Users\\Lab3-PC\\Desktop\\5-ascensor\\5-ascensor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7587035-6E5C-48EA-9395-6DEA4D718A62}|5-ascensor.vcxproj|solutionrelative:5-ascensor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5-ascensor.cpp",
+              "DocumentMoniker": "C:\\Users\\Lab3-PC\\Desktop\\5-ascensor\\5-ascensor.cpp",
+              "RelativeDocumentMoniker": "5-ascensor.cpp",
+              "ToolTip": "C:\\Users\\Lab3-PC\\Desktop\\5-ascensor\\5-ascensor.cpp",
+              "RelativeToolTip": "5-ascensor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-20T19:18:53.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

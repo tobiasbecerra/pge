@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lab3-PC\\Desktop\\4-pizarra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{492D85E8-296D-48A1-96C1-812BFADE0613}|4-pizarra.vcxproj|C:\\Users\\Lab3-PC\\Desktop\\4-pizarra\\4-pizarra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{492D85E8-296D-48A1-96C1-812BFADE0613}|4-pizarra.vcxproj|solutionrelative:4-pizarra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4-pizarra.cpp",
+              "DocumentMoniker": "C:\\Users\\Lab3-PC\\Desktop\\4-pizarra\\4-pizarra.cpp",
+              "RelativeDocumentMoniker": "4-pizarra.cpp",
+              "ToolTip": "C:\\Users\\Lab3-PC\\Desktop\\4-pizarra\\4-pizarra.cpp",
+              "RelativeToolTip": "4-pizarra.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-20T19:11:49.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
